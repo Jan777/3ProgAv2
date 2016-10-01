@@ -9,7 +9,7 @@
 
 ### Integrantes del equipo
 
-* Francisco Armentano
+* Francisco Armentano ([franciscoarmentano](https://github.com/franciscoarmentano))
 * Sebastián Maruzzi
 * Damián Vinci
 * Ezequiel Moreno

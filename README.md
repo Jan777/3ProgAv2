@@ -1,4 +1,4 @@
-# [Nombre del juego]
+# [Back to the Future : The RPG]
 
 ## Sobre las personas
 
@@ -10,9 +10,9 @@
 ### Integrantes del equipo
 
 * Francisco Armentano ([franciscoarmentano](https://github.com/franciscoarmentano))
-* Sebastián Maruzzi
-* Damián Vinci
-* Ezequiel Moreno
+* Sebastián Maruzzi ([sebastianmaruzzi] (https://github.com/sebastianmaruzzi))
+* Damián Vinci ([damianvinci] (https://github.com/damianvinci))
+* Ezequiel Moreno([ezequielmoreno] (https://github.com/ezequielmoreno))
 
 ## Sobre la tecnología
 

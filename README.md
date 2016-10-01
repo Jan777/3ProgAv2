@@ -9,10 +9,10 @@
 
 ### Integrantes del equipo
 
-* XXXX
-* XXXX
-* XXXX
-* XXXX
+* Francisco Armentano
+* Sebastián Maruzzi
+* Damián Vinci
+* Ezequiel Moreno
 
 ## Sobre la tecnología
 

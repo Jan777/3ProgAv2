@@ -1,4 +1,4 @@
-# [Back to the Future : The RPG]
+# Back to the Future : The RPG
 
 ## Sobre las personas
 

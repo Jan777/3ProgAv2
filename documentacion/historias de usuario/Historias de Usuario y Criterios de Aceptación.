@@ -1,0 +1,60 @@
+Historias de Usuario y Criterios de Aceptación.
+
+1.	Como usuario quiero poder registrarme para poder ingresar al juego.
+  Criterios de aceptación:
+    •	Quiero poder registrarme con un usuario y contraseña
+    •	Quiero poder seleccionar un personaje
+    •	Quiero poder editar mi personaje
+    •	No debo poder tener más de un personaje asociado a mi usuario
+    •	Cuando pulse “aceptar” debe quedar creado mi usuario
+
+2.	Como usuario logueado, quiero podes ingresar al juego para jugar
+  Criterios de aceptación:
+    •	Quiero poder recorrer el mapa de punta a punta en 30 segundos
+    • Quiero poder luchar contra enemigos
+    •	Quiero poder luchar contra otros usuarios
+    •	Quiero poder aliarme con otros usuarios
+    •	Quiero poder adquirir ítems, experiencia y habilidades
+
+3.	Como personaje dentro del juego, quiero poder luchar contra enemigos para sumar experiencia
+  Criterios de aceptación:
+    •	En caso de ganar, quiero poder recolectar ítems del enemigo
+    •	En caso de perder, quiero poder perder el ítem más valioso
+
+4.	Como personaje dentro del juego quiero poder recolectar ítems para equiparme
+  Criterios de aceptación:
+    •	Quiero poder equiparme con tantos ítems tenga
+    •	Quiero que cada ítem sume un respectico valor a la habilidad que corresponda
+    •	Quiero poder desequiparme de cualquier ítem que desee
+    •	Quiero poder deshacerme del ítem que desee
+ 
+
+5.	Como personaje dentro del juego quiero poder formar alianzas con otros para podes atacar juntos
+  Criterios de aceptación:
+    •	Quiero que en caso de batalla, mi alianza luche conmigo
+    •	Quiero poder salir de la alianza en cualquier momento que lo desee, excepto durante una batalla
+    •	No debo poder atacar a otro miembro de la alianza
+    •	No debo pertenecer a más de una alianza
+
+
+6.	Como personaje dentro del juego quiero aumentar mi experiencia para poder subir niveles
+  Criterios de aceptación:
+    •	Quiero poder aumentar mis habilidades al subir de nivel
+    •	Quiero aprender nuevos movimientos cada un número determinado de niveles subidos
+
+
+7.	Como personaje quiero perder un ítem que posea cuando sufra una derrota.
+  Criterios de aceptación:
+    •	Quiero perder el ítem más valioso.
+
+
+8.	Como personaje quiero poder combatir contra otro personaje
+  Criterios de aceptación:
+  •	Quiero poder luchar contra otras alianzas
+  •	Quiero poder conseguir el ítem más valioso del jugador con el que me enfrento
+
+
+9.	Como jugador quiero poder ver el ranking de personajes en el juego.
+  Criterios de aceptación:
+    •	Quiero poder buscar que jugador está en un ranking determinado.
+    •	Quiero poder ver que ranking tiene un jugador determinado.
